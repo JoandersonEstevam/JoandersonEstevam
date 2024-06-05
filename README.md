@@ -1,9 +1,8 @@
 # Olá, eu sou o Jonaderson Estevam! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoandersonEstevam&count_private=true&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoandersonEstevam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoandersonEstevam&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 
 <div>
   <img align = "center" alt = "icon-PHP" heioght = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
